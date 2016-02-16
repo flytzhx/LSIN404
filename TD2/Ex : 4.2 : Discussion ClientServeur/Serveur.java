@@ -24,7 +24,7 @@ public class Serveur
     // On crée la liste des clients connectés au serveur. (Vide à la création du serveur)
     public Serveur()
     {
-       clients = new ArrayList<Client>();
+       this.clients = new ArrayList<Client>();
     }
     
   
@@ -53,7 +53,7 @@ public class Serveur
     {
         if(c != null)
         {
-            if(clients.add(c))
+            if(this.clients.add(c))
                return true;
         }
         return false;

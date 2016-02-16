@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=nom
+comment0.target=Bibliotheque(java.lang.String)
+comment0.text=\n\ M\u00E9thodes\ -\ Constructeurs\n\ Permet\ de\ cr\u00E9er\ un\ objet\ Biblioth\u00E8que.\n
+comment1.params=
+comment1.target=java.lang.String\ getNom()
+comment1.text=\n\ M\u00E9thodes\ -\ Accesseurs\n\ Permet\ d'acc\u00E9der\ aux\ donn\u00E9es\ des\ objets\ \n
+comment2.params=nom
+comment2.target=void\ setNom(java.lang.String)
+comment2.text=\n\ M\u00E9thodes\ -\ Mutateurs\n\ Permet\ de\ modifier\ les\ donn\u00E9es\ des\ objets\ \n
+comment3.params=doc
+comment3.target=boolean\ ajoutDocument(Document)
+comment3.text=\n\ Autres\ m\u00E9thodes\ d'instance.\n\ Permet\ la\ gestion\ des\ objets\ Serveur\n
+comment4.params=titre
+comment4.target=boolean\ rechercheDocument(java.lang.String)
+comment5.params=titre
+comment5.target=java.lang.String\ rechercheDocEnRelation(java.lang.String)
+numComments=6

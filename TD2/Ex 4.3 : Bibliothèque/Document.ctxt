@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=titre\ auteur\ annee
+comment0.target=Document(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\n\ M\u00E9thodes\ -\ Constructeurs\n\ Permet\ de\ cr\u00E9er\ un\ objet\ Serveur.\n
+comment1.params=
+comment1.target=java.lang.String\ getTitre()
+comment1.text=\n\ M\u00E9thodes\ -\ Accesseurs\n\ Permet\ d'acc\u00E9der\ aux\ donn\u00E9es\ des\ objets\ \n
+comment2.params=
+comment2.target=java.lang.String\ getAuteur()
+comment3.params=
+comment3.target=int\ getAnnee()
+comment4.params=
+comment4.target=java.util.List\ getReference()
+comment5.params=
+comment5.target=java.lang.String\ affichage()
+comment6.params=titre
+comment6.target=void\ setTitre(java.lang.String)
+comment6.text=\n\ M\u00E9thodes\ -\ Mutateurs\n\ Permet\ de\ modifier\ les\ donn\u00E9es\ des\ objets\ \n
+comment7.params=auteur
+comment7.target=void\ setAuteur(java.lang.String)
+comment8.params=annee
+comment8.target=void\ setAnnee(int)
+comment9.params=reference
+comment9.target=boolean\ ajoutReference(Document)
+comment9.text=\n\ Autres\ m\u00E9thodes\ d'instance.\n\ Permet\ la\ gestion\ des\ objets\ Serveur\n
+numComments=10
