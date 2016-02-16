@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=nom
+comment0.target=Client(java.lang.String)
+comment0.text=\n\ M\u00E9thodes\ -\ Constructeurs\n\ Permet\ de\ cr\u00E9er\ un\ objet\ EncryptedString.\n
+comment1.params=
+comment1.target=java.lang.String\ getNom()
+comment1.text=\n\ M\u00E9thodes\ -\ Accesseurs\n\ Permet\ d'acc\u00E9der\ aux\ donn\u00E9es\ des\ objets\ \n
+comment2.params=
+comment2.target=Serveur\ getServeur()
+comment3.params=nom
+comment3.target=void\ setNom(java.lang.String)
+comment3.text=\n\ M\u00E9thodes\ -\ Mutateurs\n\ Permet\ de\ modifier\ les\ donn\u00E9es\ des\ objets\ \n
+comment4.params=serveur
+comment4.target=void\ setNom(Serveur)
+comment5.params=s
+comment5.target=boolean\ seConnecter(Serveur)
+comment5.text=\n\ Autres\ m\u00E9thodes\ d'instance.\n\ Permet\ la\ gestion\ des\ objets\ \n
+comment6.params=message
+comment6.target=void\ envoyer(java.lang.String)
+comment7.params=message
+comment7.target=java.lang.String\ recevoir(java.lang.String)
+numComments=8
