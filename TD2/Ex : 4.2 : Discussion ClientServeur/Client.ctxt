@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.params=nom
 comment0.target=Client(java.lang.String)
-comment0.text=\n\ M\u00E9thodes\ -\ Constructeurs\n\ Permet\ de\ cr\u00E9er\ un\ objet\ EncryptedString.\n
+comment0.text=\n\ M\u00E9thodes\ -\ Constructeurs\n\ Permet\ de\ cr\u00E9er\ un\ objet\ Client.\n
 comment1.params=
 comment1.target=java.lang.String\ getNom()
 comment1.text=\n\ M\u00E9thodes\ -\ Accesseurs\n\ Permet\ d'acc\u00E9der\ aux\ donn\u00E9es\ des\ objets\ \n

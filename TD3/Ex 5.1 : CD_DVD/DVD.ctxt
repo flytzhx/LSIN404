@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=titre\ realisateur\ annee
+comment0.target=DVD(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ DVD\n
+comment1.params=
+comment1.target=int\ getAnnee()
+comment1.text=\n\ Accesseurs\n
+comment2.params=
+comment2.target=java.lang.String\ getRealisateur()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=annee
+comment4.target=void\ setAnnee(int)
+comment4.text=\n\ Mutateurs\n
+comment5.params=realisateur
+comment5.target=void\ setRealisateur(java.lang.String)
+comment6.params=motcle
+comment6.target=boolean\ contient(java.lang.String)
+comment6.text=\n\ Autres\ m\u00E9thodes\n
+numComments=7

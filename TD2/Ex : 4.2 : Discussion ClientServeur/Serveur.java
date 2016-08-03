@@ -49,7 +49,7 @@ public class Serveur
      */
     
     // Permet au serveur de se connecter au client : ajoute le client auquel le serveur se connecte à la liste des clients.
-    public boolean seConnecter(Client c)
+    public boolean connecter(Client c)
     {
         if(c != null)
         {

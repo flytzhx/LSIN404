@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=numMenu
+comment0.target=MenuInexistantException(int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ MenuInexistantException\n
+comment1.params=
+comment1.target=int\ getNumeroMenu()
+numComments=2

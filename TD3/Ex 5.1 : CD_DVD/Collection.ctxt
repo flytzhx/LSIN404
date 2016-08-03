@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Collection()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Collection\n
+comment1.params=
+comment1.target=java.lang.String\ listerDocuments()
+comment1.text=\n\ Accesseurs\n
+comment2.params=doc
+comment2.target=boolean\ ajouterDocument(Document)
+comment2.text=\n\ Autres\ m\u00E9thodes\ d'instance\n
+comment3.params=motcle
+comment3.target=java.util.List\ rechercherDocuments(java.lang.String)
+numComments=4

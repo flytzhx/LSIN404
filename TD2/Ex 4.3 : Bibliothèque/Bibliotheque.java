@@ -78,7 +78,7 @@ public class Bibliotheque
      }
      
      // Recherche un document (à partir de son titre) dans la blibiothèque.
-     public boolean rechercheDocument(String titre)
+     public Document rechercheDocument(String titre)
      {
          if(titre != null)
          {
@@ -86,23 +86,25 @@ public class Bibliotheque
              for(i=0;i<this.documents.size(); i++)
              {
                  if(this.documents.get(i).getTitre() == titre)
-                    return true;
+                    return this.documents.get(i);
              }
          }
-         return false;
+         return null;
       }
       
-      // Recherche et affiche des documents citant un document.
-      public String rechercheDocEnRelation(String titre)
+      // Recherche et renvoie des documents citant un document.
+      public List<Document> rechercheDocEnRelation(String titre)
       {
-         String affichageDocs = " "; // Affiche les documents en relation
          
          if(titre != null)
          {
              int i;
              Document docEnCours;  // Permet d'avoir le document en cours d'analyse (simplifie la lisibilité)
-             List<Document> refDocEnCours = new ArrayList<Document>(); // Permet d'avoir la liste des références du document en cours d'analyse (simplifie la lisibilité)
-                                                                       // Il faut bien penser à créer une nouvelle liste en mémoire pour récupérer la liste des références d'un document.
+             List<Document> refDocEnCours; // Permet d'avoir la liste des références du document en cours d'analyse
+             //(On associe juste la variable refDocEnCours à la liste de références du docs en cours d'analyse pour simplifie la lisibilité)
+                                                                       
+             List<Document> DocEnRelation = new ArrayList<Document>(); // Liste des documents à renvoyer. (Il faut créer une nouvelle liste pour ajouter les docs en relation)
+             
              // 1ère boucle : On parcourt tous les docs de la blibiothèque
              // 2eme boucle : On parcourt les références du docs en cours
              
@@ -119,14 +121,15 @@ public class Bibliotheque
                  for(j=0;j<refDocEnCours.size();j++)
                  {
                      if(refDocEnCours.get(j).getTitre() == titre)
-                        affichageDocs += docEnCours.getTitre() + "\n";
-                     
-                }
+                        DocEnRelation.add(docEnCours); 
+                 }
+                 
              }
-            
+             return DocEnRelation;
          }
          
-         return affichageDocs;
+         return null;
+        
           
           
       }

@@ -1,0 +1,4 @@
+Ceci est un fichier de test à modifier via un flux de type BufferedWriter.
+C'est la fin du fichier.
+
+C'est la fin du fichier.C'est la fin du fichier.C'est la fin du fichier.C'est la fin du fichier.C'est la fin du fichier.C'est la fin du fichier.C'est la fin du fichier.C'est la fin du fichier.

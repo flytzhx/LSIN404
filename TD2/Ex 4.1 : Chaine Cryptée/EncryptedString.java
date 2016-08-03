@@ -82,11 +82,8 @@ public class EncryptedString
     
     private EncryptedString()
     {
-        if(chaine != null)
-        {
             this.chaine = "Aucune chaine";
             this.cle = -1;
-        }
        
     }
     // Rq : Les méthodes de fabrication et de conception sont des méthodes de Classe.

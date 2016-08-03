@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=nom\ latitude\ longitude
+comment0.target=Ville(java.lang.String,\ double,\ double)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Ville\n
+comment1.params=
+comment1.target=java.lang.String\ getNom()
+comment1.text=\n\ M\u00E9thodes\ d'instances\n
+comment2.params=
+comment2.target=double\ getLatitude()
+comment3.params=
+comment3.target=double\ getLongitude()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=v
+comment5.target=int\ compareTo(Ville)
+comment6.params=latitude\ longitude
+comment6.target=int\ compareTo(double,\ double)
+numComments=7

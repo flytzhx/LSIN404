@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TableVillesListe()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ TableVillesListe\n
+comment1.params=v
+comment1.target=void\ ajouterVille(Ville)
+comment1.text=\n\ M\u00E9thodes\ d'instance\n
+comment2.params=
+comment2.target=int\ nombreVilles()
+comment3.params=
+comment3.target=java.lang.String\ infos()
+comment4.params=
+comment4.target=java.util.LinkedList\ traverser()
+comment5.params=latitude\ longitude
+comment5.target=Ville\ rechercherVille(double,\ double)
+numComments=6

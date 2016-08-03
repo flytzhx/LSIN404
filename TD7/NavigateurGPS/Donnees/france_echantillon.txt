@@ -1,0 +1,1000 @@
+42.9833333	 -0.4	Aas
+48.6333333	 7.1	Abreschwiller
+47.7666667	 2.8	Adon
+47.55	 6.7	Aibre
+45.8	 3.95	Ailleux
+50.4833333	 3.2833333	Aix
+45.0833333	 2.8333333	Albepierre
+49.3166667	 1.1833333	Alizay
+48.5666667	 4.8833333	Allichamps
+49.0333333	 6.8166667	Altrippe
+46.1	 3.9	Ambierle
+49.2166667	 0.95	Amfreville-la-Campagne
+47.8666667	 6.1166667	Anchenoncourt-et-Chazel
+48.1833333	 -0.7833333	Andouille
+45.7166667	 2.7666667	Angle Haut
+50.4666667	 2.8833333	Annay
+44.35	 0.0166667	Antagnac
+49.8833333	 4.2333333	Any-Martin-Rieux
+46.3	 5.6833333	Arbent
+48.1166667	 6.5333333	Archettes
+45.1833333	 4.7333333	Ardoix
+46.5833333	 1.5166667	Argenton
+50.3666667	 2.8666667	Arleux-en-Gohelle
+48.3	 -0.55	Aron
+43.0666667	 0.0333333	Arrodet
+43.0833333	 -0.25	Arthez-d’Asson
+45.2333333	 3.8666667	Arzon
+44.4833333	 5.7166667	Aspremont
+49.5666667	 3.6833333	Athies
+49.2	 4.4166667	Auberive-sur-Suippe
+50.35	 2.5833333	Aubigny-en-Artois
+46.8166667	 3.0666667	Aude
+49.6333333	 1.2	Augeville
+46.0833333	 1.7	Aulon
+44.1333333	 5.4166667	Aurel
+43.5833333	 0.6166667	Auterrive
+47.4833333	 5.5	Autrey-les-Gray
+48.3	 2.4333333	Auxy
+49.45	 4.0833333	Avaux
+49.0333333	 5.7	Avillers
+49.25	 6.2	Ay
+43.3166667	 2.75	Azillanet
+45.4666667	 3.8166667	Baffie
+48.5333333	 1.65	Bailleau
+50.0666667	 4.1833333	Baives
+47.9333333	 -0.4166667	Ballee
+43.6333333	 1.75	Bannieres
+44.65	 6.6	Barbeinq
+49.4333333	 0.9333333	Bardouville
+49.3833333	 -1.75	Barneville-sur-Mer
+47.4833333	 6.7666667	Bart
+45.0	 0.6333333	Bassac
+47.2166667	 0.9333333	Bas Ville-Pays
+47.9833333	 -1.9333333	Baulon
+46.35	 1.5333333	Bazelat
+46.4	 4.4	Beaubery
+45.3333333	 5.1333333	Beaufort
+46.6666667	 -1.6166667	Beaulieu-sous-la-Roche
+47.5666667	 0.6666667	Beaumont
+45.2833333	 3.8166667	Beaune-sur-Arzon
+45.5	 0.5	Beaussac
+50.3666667	 2.2333333	Beauvois
+48.6333333	 -3.3	Begard
+47.35	 -1.9833333	Belebat
+44.7666667	 -0.1833333	Bellefond
+48.8166667	 6.1	Belleville
+47.2166667	 6.3666667	Belmont
+44.7666667	 2.7166667	Benaven
+46.4333333	 3.0833333	Berauds
+50.6	 2.4666667	Berguette
+48.4166667	 1.3333333	Berneuse
+44.7333333	 5.1	Bertalaix
+49.1833333	 2.0666667	Berville
+44.2833333	 4.1	Besseges
+42.8666667	 1.0833333	Bethmale
+50.1166667	 2.9333333	Beugny
+44.8833333	 -0.4	Beychac
+45.95	 0.35	Biarge
+47.5	 3.95	Bierry-le Haut
+45.7166667	 5.8166667	Billieme
+48.9833333	 7.8833333	Birlenbach
+43.1666667	 2.8833333	Bizanet
+48.8	 6.6666667	Blanche-Eglise
+45.1666667	 3.4166667	Blassac
+48.4666667	 4.5333333	Blignicourt
+48.5166667	 0.4666667	Boece
+50.15	 2.2333333	Boisbergues
+48.2333333	 -1.2	Bois Morin Grand
+45.2833333	 4.0166667	Boisseyres
+48.2	 5.1333333	Bologne
+44.7166667	 3.0666667	Bonnechare
+44.6333333	 5.6166667	Bonneval-en-Diois
+48.6333333	 6.5	Bonviller
+44.2	 2.0833333	Bor-et-Bar
+49.6333333	 0.7166667	Bosc-Renault
+45.2666667	 3.9833333	Boubas
+43.5333333	 -0.3	Boueilho
+46.3833333	 -0.6833333	Bouille
+48.6333333	 1.3333333	Boullay
+46.3333333	 1.15	Bourdel
+44.9666667	 4.3833333	Bourget
+42.8333333	 0.3333333	Bourisp
+45.9333333	 1.75	Bousogle
+45.5	 -0.7625	Boutenac
+44.55	 0.85	Bouye
+44.25	 6.65	Brac
+49.3833333	 5.3	Brandeville
+44.2	 0.5333333	Brax
+49.3166667	 4.7666667	Brecy-Brieres
+44.4833333	 3.5333333	Brenoux
+49.5666667	 3.1	Bretigny
+48.5	 5.1166667	Breuil-sur-Marne
+45.45	 6.5666667	Brides
+43.9833333	 4.2166667	Brignon
+49.7166667	 3.3666667	Brissay-Choigny
+47.75	 6.35	Brotte-les-Luxeuil
+50.4833333	 2.55	Bruay-en-Artois
+50.1333333	 1.5166667	Brutelles
+48.9333333	 1.45	Bueil
+50.1833333	 2.9166667	Bullecourt
+47.3166667	 7.0	Burnevillers
+45.6166667	 1.0333333	Bussiere-Galant
+47.9666667	 3.8166667	Butteaux
+43.8666667	 4.95	Cabannes
+50.1833333	 3.3	Cagnoncles
+45.1	 0.85	Caleix
+44.7666667	 -0.5	Camblanes
+50.6166667	 1.9833333	Campagne
+49.5666667	 2.3	Campremy
+43.3166667	 5.3666667	Canet
+44.5666667	 2.0833333	Capdenac-Gare
+43.4666667	 6.1833333	Carces
+43.15	 -1.2166667	Caro
+42.5166667	 9.4333333	Casamocza
+44.85	 0.4166667	Castang
+43.2333333	 2.6833333	Castelnau-d’Aude
+43.1666667	 1.3	Castex
+49.4166667	 6.25	Cattenom
+43.7833333	 -0.0666667	Caupenne
+50.1833333	 1.4833333	Cayeux
+45.1666667	 1.8	Ceaux
+44.8	 1.2	Cenac-et-Saint-Julien
+49.2	 -0.9333333	Cerisy
+46.6333333	 5.5	Cesancey
+45.8666667	 0.7166667	Chabanais
+45.5333333	 4.55	Chagnon
+46.6666667	 0.0	Chalandray
+45.4166667	 -0.0833333	Challignac
+47.2833333	 5.25	Chambeire
+47.3833333	 6.1	Chambornay
+48.2	 6.7166667	Champ
+48.2833333	 0.45	Champaissant
+48.95	 6.0666667	Champey-sur-Moselle
+47.2333333	 3.4333333	Champlin
+47.6666667	 -0.65	Champteusse
+46.4166667	 4.2333333	Changy
+44.4	 4.8333333	Chantemerle-les-Grignan
+46.1833333	 0.4	Chapelle-Baton
+46.3833333	 4.8333333	Charbonnieres
+46.3	 2.0166667	Charlanges
+45.9	 4.6666667	Charnay
+44.7833333	 6.8333333	Charvet
+47.65	 5.9833333	Chassey-les-Scey
+45.65	 5.4	Chateau Aulouise
+45.0166667	 4.9333333	Chateauneuf
+43.5	 6.0166667	Chateauvert
+48.0833333	 -1.3166667	Chatenay
+47.05	 3.6666667	Chatillon-en-Bazois
+48.9666667	 2.85	Chauconin
+46.1333333	 2.4833333	Chaumaselle
+47.1166667	 2.7833333	Chaumoux-Marcilly
+47.7166667	 6.0333333	Chaux-les-Port
+49.4333333	 3.3	Chavigny
+47.2	 1.0	Chedigny
+45.5166667	 -0.8166667	Chenac
+45.9333333	 0.25	Chenommet
+45.8	 0.55	Cherves
+47.3333333	 3.0166667	Cheveroux
+45.2333333	 2.7333333	Cheylade
+46.8	 -0.3666667	Chiche
+46.3666667	 2.8833333	Chiret
+49.6666667	 2.0833333	Choqueuse
+49.7333333	 3.8333333	Cilly
+48.1666667	 0.45	Citeaux
+46.7333333	 5.9166667	Cize
+44.45	 5.8333333	Clausonne
+48.2	 -0.7333333	Clerbrie Haute
+48.4833333	 -3.6666667	Cleuncoat
+48.05	 -3.7666667	Coadri
+47.05	 3.3166667	Cognan
+44.2166667	 0.5666667	Colayrac
+49.7333333	 0.8	Colmont
+48.3166667	 7.1166667	Colroy-la-Grande
+43.85	 2.6666667	Combret
+44.9666667	 5.7333333	Conbefole
+49.5333333	 4.2333333	Conde
+46.2666667	 5.0666667	Confrancon
+48.9166667	 4.8	Contault
+46.8166667	 1.2666667	Corbancon
+45.0166667	 3.7833333	Cordes
+45.3333333	 -0.7	Corne
+47.9	 6.6333333	Corravillers-le-Plain
+44.4166667	 3.8833333	Costeilades
+45.9833333	 1.4	Coudier
+48.0166667	 0.0166667	Coulans-sur-Gee
+44.4666667	 0.4833333	Coulx
+48.8166667	 5.45	Courcelles
+45.4166667	 6.65	Courchevel
+47.75	 -2.1	Cournon
+49.1333333	 4.7833333	Courtemont
+46.8333333	 0.2	Coussay
+44.8333333	 0.9666667	Coux-et-Bigaroque
+43.7333333	 0.7333333	Crastes
+45.7166667	 5.25	Cremieu
+49.35	 -1.3833333	Cretteville
+49.3	 1.1	Criquebeuf-sur-Seine
+46.1	 -1.0	Croix-Chapeau
+48.1166667	 2.0666667	Crottes-en-Pithiverais
+45.3	 1.1333333	Cubas
+49.7666667	 4.1	Cuiry-le-Iviers
+46.4666667	 5.15	Curciat-Dongalon
+46.9	 3.1833333	Cussy
+48.5666667	 -2.5666667	Dahouet
+48.9	 1.6166667	Dammartin
+49.1666667	 1.6333333	Dampsmesnil
+48.2833333	 5.8166667	Darney-aux-Chenes
+47.5	 7.0	Delle
+46.3833333	 5.5	Dessia
+48.8833333	 7.05	Diedendorf
+46.1	 5.9333333	Dingy
+46.3833333	 -0.8	Doix
+48.25	 6.0666667	Domevre-sous Monfort
+48.25	 6.5666667	Dompierre
+49.0666667	 5.7333333	Doncourt-aux-Templiers
+48.8	 7.4	Dossenheim-sur-Zinsel
+50.1666667	 3.9333333	Dourlers
+49.1166667	 -1.2666667	Dreauderie
+45.6666667	 5.9166667	Drumettaz-Clarafond
+46.25	 2.7	Durdat-Larequille
+49.5833333	 1.3	Ecalles
+50.4	 2.1833333	Eclimeux
+45.6833333	 0.5666667	Ecuias
+48.05	 7.3	Eguisheim
+49.55	 0.15	Emfrayette
+45.4666667	 1.6833333	Ensergueix
+50.1166667	 2.15	Epecamps
+47.95	 -0.3666667	Epineux
+48.25	 -1.5	Erce
+50.3666667	 3.3166667	Erre-en-Ostrevent
+43.3333333	 0.1333333	Escondeaux
+44.3166667	 6.15	Esparron-la-Batie
+48.55	 0.25	Essai
+42.95	 0.6333333	Estenos
+46.6166667	 2.0166667	Etaille
+49.2833333	 5.6666667	Eton
+48.5833333	 5.0333333	Eurville-sur-Marne
+44.2333333	 5.6166667	Eygalayes
+43.5	 0.7	Faget - Abbatial
+45.0833333	 3.65	Farge
+45.35	 0.8333333	Fauconnie
+49.6333333	 2.6166667	Faverolles
+45.2166667	 4.9166667	Fay-le-Clos
+44.6166667	 2.1333333	Felzins
+42.95	 0.5333333	Ferrere
+49.0	 -1.0833333	Fervaches
+42.7333333	 9.4333333	Ficarella
+42.3833333	 9.45	Fiuminale Sottano
+44.0166667	 4.5	Flaux
+47.9166667	 6.3	Fleurey
+50.4166667	 3.1833333	Flines-les-Raohes
+44.0333333	 4.3166667	Foissac
+45.1833333	 3.1333333	Fons
+50.1833333	 4.05	Fontaine
+47.5166667	 1.55	Fontaines
+45.9166667	 0.1666667	Fontemille
+45.25	 2.2333333	Fontenille
+43.7166667	 4.7166667	Fontvieille
+48.25	 2.2833333	Formarville
+48.1666667	 3.1333333	Foucheres
+45.8833333	 0.0666667	Fouqueure
+45.1666667	 -0.6333333	Fours
+49.95	 1.6833333	Framicourt
+48.3	 7.0666667	Frapelle
+49.75	 2.0666667	Fremontiers
+48.9333333	 2.7333333	Fresnes
+46.3166667	 0.3	Fressines
+49.6166667	 1.1333333	Frichemesnil
+45.65	 5.1833333	Frontas
+45.3166667	 5.5	Fure
+45.4	 2.9	Gaine
+47.3166667	 -1.6333333	Garambeau
+43.7	 1.7166667	Garrigues
+48.3	 -2.75	Gausson
+45.5666667	 -0.6666667	Gemozac
+43.0	 0.6666667	Genos
+47.8	 5.0333333	Germaines
+43.0333333	 -0.05	Geu
+41.7166667	 8.7166667	Giglio
+48.9333333	 3.9666667	Gionges
+46.45	 2.65	Givarlais
+44.4833333	 6.7666667	Gleizolles
+43.5666667	 7.0833333	Golf-Juan
+47.2333333	 6.3	Gonsans
+47.5833333	 6.7333333	Gouhenans
+44.6166667	 6.3333333	Gournier
+43.1833333	 1.1833333	Gouzens
+46.75	 1.1166667	Grand Aslon
+47.0166667	 6.5833333	Grand Combe-Chateleu
+44.5666667	 6.15	Grand-Larra
+49.7833333	 3.2166667	Grand Seraucourt
+43.9166667	 7.3333333	Granges de Remonando
+46.4666667	 5.4666667	Graye
+44.9	 5.5666667	Gresse-en-Vercors
+49.0	 5.0166667	Grigny
+46.5333333	 -1.6166667	Grosbreuil
+42.9666667	 9.35	Gualdo
+48.3916667	 -4.4666667	Guernevez
+44.9333333	 4.8666667	Guilherand
+48.05	 -3.65	Guiscriff
+50.3	 2.6166667	Habarcq
+50.05	 2.2	Halloy-les-Pernois
+49.6	 4.1333333	Hannogne-Saint-Remy
+48.4666667	 6.1833333	Haroue
+50.7333333	 2.3166667	Haut-Arques
+46.9666667	 6.45	Hauterive-la-Fresse
+49.6833333	 0.75	Hautot-Saint-Sulpice
+48.2	 7.5166667	Heidolsheim
+50.2333333	 2.8333333	Henin
+49.5833333	 1.7666667	Hericourt-sur-Therain
+48.6833333	 6.95	Hertzing
+49.9333333	 1.6	Heurtevent
+49.6833333	 1.5166667	Hodeng
+50.2666667	 3.3166667	Hordain
+49.5166667	 1.0833333	Houppeville
+48.7166667	 7.2666667	Hultehouse
+46.7166667	 2.25	Ids-Saint-Roch
+49.7166667	 0.95	Imbleville
+48.1333333	 4.8666667	Irceville
+44.6666667	 1.9333333	Issepts
+43.1	 -0.4166667	Izest
+47.8333333	 3.5833333	Janche
+47.9666667	 3.7833333	Jaulges
+45.4833333	 4.0	Joanziecq
+44.85	 2.7666667	Jou
+48.5166667	 1.55	Jouy
+48.25	 0.1166667	Juille
+47.8166667	 5.9	Jussey
+47.6833333	 7.5	Kembs
+48.15	 -3.4833333	Kerbescontez
+47.4666667	 -2.4833333	Kerfalher
+48.2833333	 -4.0666667	Kerguelfen
+48.55	 -4.0	Kerlaoudet
+47.7666667	 -3.3116667	Kermorvan
+48.6833333	 -3.7833333	Kerreun
+47.9166667	 -4.0666667	Kervenos
+49.45	 6.4	Kirsch-les-Sierck
+45.0833333	 5.4666667	La Balme
+43.4666667	 0.6	Labarthe
+43.5166667	 0.9833333	Labastide
+44.5833333	 5.5833333	La Batie-Cremezin
+42.8166667	 2.1333333	Labeau
+48.35	 1.15	La Bergerie
+48.1333333	 -1.45	La Bilongere
+49.0	 1.0333333	La Bonneville
+48.7666667	 0.5166667	La Boulangerie
+46.7833333	 1.7	La Brauderie
+48.5	 1.0	La Brosse
+45.4	 0.45	La Buisson
+44.05	 4.55	La Capelle
+45.7833333	 -1.1166667	La Cayenne
+47.3166667	 1.1166667	La Chaise
+48.5	 1.8	La Chapelle
+47.2166667	 -0.7833333	La Chapelle
+47.7333333	 -0.9833333	La Chapelle aux Pies
+48.55	 2.9	La Chapelle-Gauthier
+45.7833333	 6.15	La Chapelle-Saint-Maurice
+48.1666667	 1.0666667	La Charmois
+44.8	 6.0833333	Lachaup
+49.05	 4.5	La Cheppe
+47.6666667	 6.9666667	Lacollonge
+44.7833333	 1.8833333	La Coste
+47.5	 3.2	La Cour Girault
+49.4	 4.8	La Croix
+45.9833333	 1.3166667	La Crousille-sur-Briance
+44.4666667	 -0.15	Lados
+43.4	 1.2833333	La Fauga
+49.7333333	 3.5666667	La Ferte
+46.1833333	 -1.3333333	La Flotte
+47.9166667	 -3.9833333	La Foret
+46.1833333	 -0.5333333	La Foye
+43.6666667	 3.5166667	Lagamas
+48.1833333	 -0.7666667	La Gatardiere
+48.75	 1.95	L’Agiot
+47.0166667	 6.5833333	La Grand Combe
+48.5166667	 4.9166667	La Grange-au-Rupt
+48.0833333	 -0.8333333	La Gueliniere
+48.05	 -1.0166667	La Hardoniere
+47.0	 -1.2666667	La Hinchere
+47.6166667	 3.35	Lain
+50.45	 3.2	La Jonquiere
+47.8	 6.5333333	La Lanterne
+46.15	 5.7166667	Lalleyriat
+48.0833333	 -1.3	La Maconniere
+49.5166667	 3.9833333	La Malmaison
+45.6666667	 0.9166667	La Martinie
+46.7333333	 -0.85	La Meilleraie
+48.1166667	 0.7166667	Lamnay
+44.0833333	 1.3666667	Lamothe-Capdeville
+45.7333333	 4.8333333	La Mouche
+48.6166667	 -2.15	Lancieux
+49.8666667	 4.05	Landouzy-la-Ville
+49.5833333	 4.8666667	La Neuville
+48.2	 0.4	L’Angelerie
+48.3833333	 -4.5	Laninon
+49.4166667	 4.7666667	La Noue-Adam
+48.2166667	 -4.0833333	Lanvaidic
+47.0833333	 1.2666667	La Pechaudiere
+46.5166667	 0.95	La Petite Ville
+45.4833333	 2.1333333	La Plagne
+48.5333333	 0.9	La Porcherie
+47.45	 6.6166667	La Pretiere
+47.1333333	 -0.25	La Raye
+48.6	 -0.8333333	Larenton
+45.35	 0.8	La Rivarie
+45.1333333	 1.0666667	La Roche
+46.1666667	 -1.15	La Rochelle
+44.1166667	 3.2166667	La Roque
+44.9666667	 4.6166667	La Rouveure
+46.5333333	 2.4333333	La Rue de Pre
+48.6333333	 1.0333333	La Saucelle
+45.1166667	 0.6666667	La Segumie
+47.2666667	 2.6333333	Lass
+45.5	 2.5333333	La Tauverie
+47.6833333	 -1.3333333	La Touche
+46.1333333	 1.4	La Traverse
+48.0166667	 2.1166667	La Tuilerie
+43.6833333	 1.45	Launaguet
+43.7166667	 2.15	Lautrec
+45.1625	 -0.65	La Valade
+45.35	 3.5833333	Laval-sur-Doulon
+44.3833333	 -0.1	Lavazan
+45.6333333	 5.15	La Verpilliere
+49.8	 1.5	La Vieuville
+47.45	 6.1333333	La Villedieu-les-Quenoche
+46.75	 1.9333333	La Villette
+48.6833333	 5.7666667	Lay-Saint-Remy
+45.8166667	 6.7166667	le Beaulieu
+48.9	 -0.45	Le Bo
+44.75	 0.9833333	Le Bos
+45.2	 2.4	Le Bouix
+46.65	 -1.4166667	Le Bourg-sous-la-Roche-sur-Yon
+46.65	 3.3833333	Le Breuil
+49.9166667	 1.2666667	Le Bucq
+44.6833333	 -1.2333333	Le Canon
+45.6666667	 5.1333333	Le Chaffard
+45.5333333	 3.4833333	Le Chassaing
+44.65	 3.8	Le Chaylard-l’Eveque
+48.55	 -3.1833333	Lech-Leonec
+45.6166667	 5.7333333	Le Collet
+48.0833333	 -2.3	Le Coudray-Mathuau
+47.8	 3.3333333	Le Crot
+48.5333333	 -4.0666667	Le Drenec
+45.3333333	 2.0	Le Feyt
+49.35	 5.7666667	Le Franc
+46.8833333	 -1.6	Lege
+48.6	 1.7333333	Le Grand Belair
+49.6	 1.4833333	Le Grand Quesnay
+48.5666667	 -2.2166667	Le Guildo
+47.3666667	 4.1333333	Le Haut Jarnois
+48.8166667	 2.3666667	Le Kremlin-Bicetre
+45.3166667	 2.05	Le Longy
+49.2833333	 -0.6	Le Manoir
+45.7166667	 1.3833333	Le Masgardaud
+44.8666667	 6.6333333	Le Melezin
+48.6666667	 -1.2333333	Le Mesnil
+48.8666667	 -1.3833333	Le Mesnil-Rogues
+44.8	 5.65	Le Monestier-du-Percy
+45.6	 0.8833333	Le Montet-Chaboulet
+49.9833333	 3.1666667	Lempire
+48.7	 2.3666667	Le Noyer-Renard
+46.8	 5.9	Le Pasquier
+45.8833333	 5.95	Le Pessey
+46.9166667	 0.9166667	Le Petit-Pressigny
+46.8666667	 -0.65	Le Pin
+46.2833333	 2.4166667	Le Plaix
+49.0666667	 0.8833333	Le Plessis
+46.4	 -0.9	Le Poire-sur-Velluire
+48.5166667	 4.9166667	Le Pont Varin
+45.7666667	 6.6166667	Le Pre
+46.1166667	 3.1833333	Le Puy Mazerier
+45.2666667	 4.15	Le Regard
+47.8	 -1.4333333	Le Rocher
+46.6833333	 -1.9333333	Le Sablais
+43.5333333	 4.7166667	Le Sambuc
+45.0833333	 4.5333333	Les Asclards
+45.7833333	 2.55	Les Aymards
+47.0666667	 6.6833333	Les Bassots
+46.8833333	 2.7	Les Besses
+48.3666667	 0.4166667	Les Bonnes
+47.2	 3.4666667	Les Bouillons
+44.2666667	 4.1166667	Les Brousses
+43.4166667	 2.0833333	Les Cammazes
+45.2833333	 6.9	Les Champs
+46.95	 3.0	Les Chaumes de Saint-Aignan
+44.1	 -0.5333333	Les Chinans
+47.6	 2.7666667	Les Combes
+44.7333333	 6.05	Les Courts
+46.7166667	 3.2166667	Les Doudets
+44.4833333	 6.2333333	Le Serre
+44.9166667	 0.8	Les Fargues
+48.25	 1.0333333	Les Foucaudieres
+47.7	 2.9333333	Les Garniers
+44.4333333	 6.3333333	Les Goirands
+44.2666667	 5.4333333	Les Granges
+44.5333333	 6.1666667	Les Guerins
+47.5	 2.5166667	Les Henris
+44.75	 0.4666667	Les Jandis
+43.2	 6.05	Les Langiers
+44.6833333	 5.6833333	Les Lussettes
+48.1833333	 3.0833333	Les Martinieres
+46.0	 5.8166667	Les Metral
+47.0	 2.0	Les Monts
+46.6	 1.4	Les Nebillons
+44.15	 3.5333333	Les Oubrets
+45.0833333	 4.9833333	Les Perrets
+45.0666667	 3.6166667	Lespitallet
+45.5333333	 3.8333333	Les Pradeaux
+47.7833333	 2.8333333	Les Reaux
+47.3	 -0.25	Les Roches
+48.3833333	 0.9333333	Les Sablons
+44.9833333	 5.9666667	Les Sciauds
+47.9333333	 1.95	Les Taretes
+43.1166667	 0.5666667	Les Toureilles
+47.2666667	 2.95	Les Vallees
+49.95	 4.7833333	Les Vieux Moulins d’Hargnies
+48.8166667	 1.35	Le Tanu
+47.9166667	 -1.4333333	Le Theil
+49.8666667	 0.6666667	Le Tot
+46.1166667	 2.3666667	Le Tromp
+47.7333333	 6.1833333	Le Val
+48.0166667	 3.65	Le Vau-du-Puits
+47.5666667	 6.6833333	Le Vernoy
+46.8333333	 2.85	Levigny
+45.8	 0.4333333	Le Vivier
+47.9833333	 -3.5666667	Lezennet
+45.35	 2.45	L’Hopital
+44.3666667	 6.3333333	Liberne
+44.8333333	 2.9	Lieutades
+46.2333333	 4.2	Ligny
+48.8833333	 5.9	Limey
+43.9166667	 -1.25	Linxe
+43.9166667	 5.05	L’Isle-sur-la-Sorgue
+48.9166667	 2.55	Livry
+48.6833333	 -4.1	Loc Maria
+48.3166667	 -4.3	Logonna-Daoulas
+49.5166667	 3.1166667	Lombray
+47.45	 6.65	Longevelle
+48.4666667	 2.3166667	Longueville
+47.45	 -2.1833333	Lorganai
+43.7333333	 0.0166667	Loubedat
+49.0833333	 6.9166667	Loupershouse
+50.1	 2.5	Louvencourt
+46.7333333	 1.55	Luant
+49.55	 2.1166667	Luchy
+48.1166667	 1.7833333	Lumeau
+48.25	 4.2666667	Lusigny
+47.0166667	 0.4333333	Luze
+45.8833333	 6.0666667	Maclamoz
+50.4	 2.5	Magnicourt-en-Comte
+43.8833333	 0.4	Maignaut-Tauzia
+50.3666667	 1.8166667	Maintenay
+48.45	 0.7	Maison-Maugis
+45.1	 1.1	Malagnac
+45.9166667	 1.4666667	Malevaux
+45.6166667	 3.4	Malpie
+44.5166667	 2.8833333	Mandailles
+48.7833333	 5.9333333	Manoncourt-en-Woevre
+48.4	 2.8666667	Marangis Tour
+47.3166667	 6.1333333	Marchaux
+48.8333333	 1.2166667	Marcilly
+47.8833333	 2.05	Mardie
+49.1333333	 3.0666667	Mareuil-sur-Ourcq
+45.8	 5.3	Marignieu
+45.2833333	 2.45	Marlat
+48.8833333	 0.5833333	Marnefer
+50.6666667	 3.0833333	Marquette
+47.0666667	 3.0	Marseilles
+46.5333333	 4.3333333	Martigny-le-Comte
+44.1166667	 2.9333333	Marzials
+43.4166667	 -0.15	Maspie-Lalonquere-Juillacq
+45.8666667	 -0.3166667	Matha
+49.55	 2.1666667	Maulers
+43.6166667	 -0.3333333	Mauries
+46.2	 -0.6666667	Mauze-sur-le-Mignon
+46.15	 2.35	Mazeiras
+45.25	 2.4333333	Meallet
+43.2666667	 -0.3166667	Meillon
+48.5	 3.4166667	Melz
+46.7666667	 5.6166667	Menetru-le-Vignoble
+49.7	 0.4166667	Mentheville
+42.65	 1.8333333	Merens-les-Vals
+46.25	 2.7666667	Merlon
+47.4333333	 -1.2333333	Mesanger
+49.0833333	 0.0166667	Mesnil-Mauger
+45.6333333	 5.7666667	Methenod
+45.0166667	 5.15	Meymans
+48.1833333	 0.3	Mezieres-sous-Ballon
+46.6333333	 0.3166667	Migne-Auxances
+49.1666667	 4.7166667	Minaucourt-le-Mesnil
+44.0666667	 6.0833333	Mirateaus
+48.4	 7.4333333	Mittelbergheim
+43.65	 6.1666667	Moissac
+48.2333333	 3.5333333	Molinons
+44.5333333	 1.0666667	Moncabrier
+50.2666667	 2.9	Monchy-le-Preux
+44.9	 5.6333333	Monestier-de-Clermont
+44.7	 0.6	Monmarves
+49.7	 2.1666667	Monsures
+45.45	 6.6	Montagny
+45.8166667	 5.4	Montalieu
+43.5666667	 1.4833333	Montaudron
+45.2333333	 5.8	Montbonnot-Saint-Martin
+49.5166667	 3.7333333	Montchalons
+50.4333333	 3.45	Mont des Bruyeres
+43.3	 3.0333333	Montels
+46.3166667	 3.25	Montfand
+43.75	 -0.4833333	Montgaillard
+49.2833333	 2.05	Montherlant
+48.45	 0.1833333	Montigny
+47.6333333	 6.0666667	Montigny-les-Vesoul
+49.8666667	 1.35	Mont Landrin
+46.0166667	 4.6166667	Montmelas
+43.3333333	 2.9	Montouliers
+46.1833333	 5.5833333	Montreal la Cluse
+47.6166667	 -0.4	Montreuil-sur-Loir
+49.3833333	 4.4833333	Mont-Saint-Remy
+48.3833333	 1.7833333	Monvilliers
+48.2333333	 -4.5	Morgat
+47.05	 2.8833333	Mornay
+50.0333333	 2.8666667	Morval
+49.3333333	 2.25	Mouchy-le-Chatel
+48.0	 -1.3666667	Moulins
+45.0666667	 5.05	Mours
+47.0333333	 6.2666667	Mouthier-Haute-Pierre
+50.1833333	 2.7666667	Moyenneville
+47.9166667	 7.35	Munwiller
+49.3	 1.4666667	Mussegros
+44.2166667	 1.9833333	Najac
+45.3833333	 0.2833333	Nanteuil
+44.5166667	 2.0833333	Naussac
+47.4166667	 0.95	Negron
+49.1333333	 2.1833333	Nesles-la-Vallee
+46.35	 3.8833333	Neuilly
+47.4	 6.0833333	Neuvelle-les-Cromary
+49.3666667	 1.2333333	Neuville-Champ-d’Oisel
+47.6	 0.6	Neuvy
+48.95	 7.6333333	Niederbronn-les-Bains
+46.1	 2.5333333	Nirolle
+48.4833333	 3.5	Nogent
+48.85	 2.6333333	Noisiel
+47.4	 5.0666667	Norges-la-Ville
+45.5333333	 6.4666667	Notre-Dame-de-Briancon
+45.7833333	 2.35	Noudiere
+49.6	 4.4166667	Novion-Porcien
+49.6666667	 4.95	Noyers-Pont-Maugis
+47.5666667	 7.3166667	Oberdorf
+50.3666667	 2.2166667	OEuf
+48.35	 0.0833333	Oisseau-le-Petit
+44.4666667	 1.9833333	Ols
+42.8666667	 2.8833333	Opoul
+42.5666667	 2.25	Oreilla
+45.8666667	 3.4333333	Orleat
+45.5333333	 3.1	Orphange
+49.05	 5.25	Osches
+49.5	 0.3	Oudalle
+43.2833333	 0.0333333	Oursbelille
+50.9833333	 2.05	Oye-Plage
+44.95	 4.3	Pailhes
+46.55	 4.2166667	Palinges
+48.4333333	 1.95	Paponville
+48.25	 5.95	Parey
+47.4666667	 3.45	Paroy
+46.5333333	 4.5333333	Passy
+48.35	 5.3166667	Pautaines
+42.1833333	 9.3333333	Pedale
+48.1166667	 -3.9333333	Penarmenez
+46.5666667	 2.2333333	Penteuloup
+48.7	 2.55	Perigny-sur-Yerres
+44.9833333	 0.6166667	Perrier
+45.4333333	 3.4666667	Peslieres
+47.9833333	 -4.3166667	Petit Drevez
+45.1833333	 0.85	Petit Rognac
+46.0666667	 1.7833333	Peyrat
+44.55	 0.7333333	Peyroulie
+42.3166667	 9.4	Piazalli
+43.2166667	 6.1333333	Pierrefeu
+48.8666667	 -0.7333333	Pierres
+41.6861111	 9.3694444	Pinarellu
+45.3833333	 5.05	Pisieu
+48.6833333	 7.1166667	Plaine-de-Valsch
+49.15	 -0.8333333	Planquery
+49.5833333	 2.8333333	Plessis-de-Roye
+49.8	 4.0166667	Plomion
+48.5666667	 -3.5333333	Plounerin
+42.3333333	 8.9833333	Poggio
+45.9333333	 5.7	Poisieu
+44.6333333	 2.4	Pomies
+47.5	 4.7666667	Poncey
+45.4333333	 0.5666667	Pontarneaud
+47.6666667	 -0.4666667	Pont des Boires
+49.3	 0.1833333	Pont-l’Eveque
+46.9333333	 2.7333333	Porcher
+45.8333333	 -0.6833333	Port-d’Envaux
+41.5833333	 9.2833333	Porto-Vecchio
+47.3833333	 3.0	Pougny
+47.95	 -4.3666667	Pouldreuzic
+45.8166667	 2.2166667	Poussanges
+45.5333333	 3.8333333	Pradeaux
+44.7	 6.3666667	Prapic
+45.5833333	 4.15	Precieux
+45.2	 6.2333333	Pre Plan
+49.35	 5.8	Preutin-Higny
+44.5333333	 2.0	Prix
+47.7	 0.9166667	Prunay
+46.7166667	 -0.5166667	Pugny
+46.95	 4.75	Puligny
+46.2166667	 0.8666667	Puycatelin
+44.2666667	 5.1333333	Puymeras
+50.1833333	 2.9833333	Queant
+49.95	 1.9833333	Quesnoy-sur-Airaines
+48.4833333	 -3.25	Quilliac
+46.7333333	 5.5333333	Quintigny
+46.9833333	 5.45	Rahon
+47.15	 5.7333333	Ranchot
+44.4333333	 1.3333333	Rassiels
+46.9666667	 0.3666667	Razines
+45.1333333	 3.95	Recours
+45.5666667	 3.0833333	Reignat
+49.7833333	 4.5166667	Remilly
+45.4166667	 3.1	Rentieres
+47.4833333	 0.8833333	Reugny
+44.65	 1.9166667	Reyrevignes
+44.1	 6.8333333	Ribiera
+44.3	 2.2333333	Rieupeyroux
+47.45	 0.25	Rille
+46.9	 2.5666667	Ripiere
+44.25	 5.0166667	Roaix
+45.9333333	 -0.9833333	Rochefort
+48.0166667	 5.1666667	Rochvilliers
+47.6333333	 -1.9	Rohan
+48.85	 1.05	Roman
+47.05	 5.9	Ronchaux
+43.25	 5.6166667	Roquefort
+44.05	 2.1833333	Rosieres
+48.6833333	 -1.9666667	Rotheneuf
+43.6666667	 1.5166667	Rouffire
+43.4666667	 1.9333333	Roumens
+43.7833333	 3.1	Rouvignac
+47.0	 1.8833333	Rouze
+49.7166667	 4.1333333	Rozoy
+48.7166667	 1.8	Rue Neuve
+45.8666667	 5.95	Rumilly-Albanais
+49.1	 7.05	Saargemuend
+43.9833333	 4.4166667	Sagries
+49.5666667	 2.4833333	Sains
+48.45	 -0.3	Saint-Aignan-de-Couptrain
+45.0666667	 1.2666667	Saint-Amand-de-Coly
+47.4	 4.1	Saint-Andeux
+46.0333333	 3.9333333	Saint-Andre-d’Apchon
+45.7166667	 1.7	Saint-Anne-Saint-Priest
+47.7	 0.8666667	Saint-Arnoult
+48.3	 -0.2	Saint-Aubin
+47.6333333	 0.3833333	Saint-Aubin-le-Depeint
+45.35	 6.3166667	Saint Avre la Chambre
+48.2833333	 -0.6333333	Saint-Beaudelle
+44.8833333	 6.6166667	Saint-Blaise-Chamandin
+46.2666667	 4.4666667	Saint-Bonnet-des-Bruyeres
+47.75	 3.6333333	Saint-Bris
+45.1	 1.4166667	Saint-Cernin-de-Larche
+45.2666667	 0.05	Saint-Christophe
+44.9333333	 4.4666667	Saint-Cierge
+43.8166667	 4.0333333	Saint-Clement
+48.2666667	 0.4666667	Saint-Cosme
+49.0666667	 1.75	Saint-Cyr
+48.2333333	 3.2666667	Saint-Denis
+49.3333333	 1.7166667	Saint-Denis-le-Ferment
+45.6	 4.6	Saint-Didier-sous-Riverie
+43.1333333	 5.9333333	Sainte-Anne
+48.5666667	 0.5333333	Sainte-Ceronne-les-Mortagne
+49.2333333	 -0.55	Sainte-Croix
+48.6666667	 -3.6166667	Saint-Efflam
+49.0833333	 1.5833333	Sainte-Genevieve
+47.9333333	 -3.4333333	Saint-Eloi
+47.1166667	 3.4333333	Sainte-Marie
+48.5833333	 -0.15	Sainte-Marquerite
+49.5166667	 3.85	Saint-Erme
+45.5666667	 2.4666667	Saint-Etienne
+46.15	 1.5166667	Saint-Etienne-de-Fursac
+45.9333333	 5.9666667	Saint-Eusebe
+45.5333333	 3.7166667	Saint-Fereol des Cotes
+44.8333333	 4.6666667	Saint-Fortunat
+45.1666667	 -0.6333333	Saint-Genes
+45.4833333	 -0.5666667	Saint-Genis-de-Saintonge
+46.1333333	 -0.7333333	Saint-Georges
+47.9666667	 0.1	Saint-Georges-du-Bois
+44.2166667	 3.8	Saint-Germain
+48.6	 2.25	Saint-Germain
+45.2833333	 -0.8666667	Saint-Germain-d’Esteuil
+47.1166667	 -1.1333333	Saint-Germain-sur-Moine
+49.2833333	 3.6833333	Saint-Gilles
+43.7333333	 -0.1	Saint-Griede
+45.0166667	 0.5166667	Saint-Hilaire
+47.1333333	 -0.55	Saint-Hilaire-du-Bois
+47.7666667	 0.35	Saint-Hubert
+48.4333333	 -2.0166667	Saint-James
+47.1	 5.25	Saint-Jean
+48.95	 3.0166667	Saint-Jean
+49.3	 1.5	Saint-Jean-de-Frenelle
+43.0166667	 1.6166667	Saint-Jean-de-Verges
+48.9	 4.5833333	Saint-Jean-sur-Moivre
+43.3166667	 5.45	Saint-Julien
+49.1333333	 6.2	Saint-Julien
+46.05	 2.7333333	Saint-Julien-la-Geneste
+46.0	 4.45	Saint-Just-d’Avray
+49.5	 1.55	Saint-Laurent
+45.15	 0.8	Saint-Laurent
+45.0333333	 5.3333333	Saint-Laurent-en-Royans
+46.9166667	 4.1	Saint-Leger
+43.85	 0.7666667	Saint-Leonard
+45.0666667	 0.4	Saint-Louis-en-l’Isle
+48.2166667	 0.8833333	Saint-Lubin-des 5 Fonds
+45.0	 5.1333333	Saint Mamant
+44.15	 4.4833333	Saint-Marcel-de-Careiret
+48.3666667	 -0.7	Saint-Mars
+44.3333333	 2.7666667	Saint-Martin
+45.9333333	 -0.3666667	Saint-Martin
+47.8166667	 -1.0166667	Saint-Martin
+50.75	 2.2333333	Saint-Martin-au-Laert
+48.55	 -1.1833333	Saint-Martin-de-Landelles
+43.1666667	 1.5	Saint-Martin-d’Oydes
+46.2166667	 -0.15	Saint-Martin-les-Melle
+44.8	 6.0833333	Saint Maurice
+45.95	 5.2833333	Saint-Maurice-de-Remens
+45.25	 0.4166667	Saint Meard
+49.2166667	 0.8833333	Saint-Meslin-du-Bosc
+50.5166667	 1.9333333	Saint-Michel
+47.8	 -1.2833333	Saint-Morand
+47.8	 -2.2166667	Saint-Nicolas
+48.1666667	 -2.1666667	Saint-Onen
+48.6166667	 4.4	Saint-Ouen-en-Domprot
+45.3166667	 1.0166667	Saint-Pantaly-d’Excideuil
+45.75	 1.4333333	Saint-Paul
+46.6333333	 -0.6	Saint-Paul-en-Gatine
+48.8333333	 -0.4	Saint-Philbert
+44.1833333	 0.7666667	Saint-Pierre
+48.8166667	 0.2	Saint-Pierre
+44.4333333	 6.0333333	Saint-Pierre-de-Curbans
+49.2333333	 1.2166667	Saint-Pierre-du-Vauvray
+43.0333333	 2.3	Saint-Polycarpe
+45.45	 4.8	Saint-Prim
+49.15	 3.1333333	Saint-Quentin
+45.4	 6.2666667	Saint-Remy
+48.4833333	 -2.6333333	Saint-Rene
+44.9833333	 4.8	Saint-Romain-de-Lerps
+49.6	 1.75	Saint-Samson
+44.3	 4.2666667	Saint-Sauveur
+46.3333333	 0.4833333	Saint-Secondin
+46.0666667	 6.6333333	Saint-Sigismond
+47.05	 3.35	Saint-Sulpice
+49.05	 -0.2166667	Saint-Sylvain
+48.8666667	 2.6833333	Saint-Thibault
+49.6833333	 1.0166667	Saint-Vaast
+45.9333333	 3.6	Saint-Victor
+44.8833333	 1.2666667	Saint-Vincent
+50.2	 3.4166667	Saint-Waast
+44.2666667	 4.5166667	Salazac
+46.95	 5.8833333	Salins-les-Bains
+48.9833333	 8.0666667	Salmbach
+41.9333333	 9.1166667	Sampolo
+43.95	 4.4333333	Sanilhac
+47.5666667	 4.1166667	Santigny
+43.3166667	 -1.5833333	Sare
+42.0166667	 8.85	Sarrola-Carcopino
+48.0666667	 3.75	Saudurand
+48.7	 5.4666667	Saulx
+44.05	 6.8333333	Saussette
+43.4	 -0.9333333	Sauveterre-de-Bearn
+46.4333333	 5.6	Savigna
+47.0666667	 4.8166667	Savigny-les-Beaune
+48.9	 8.1	Schaffhouse
+46.1833333	 1.0	Sebioux
+43.0666667	 -0.0666667	Segus
+48.4666667	 0.15	Semalle
+45.3	 0.7	Sencenac-Puy-de-Fourches
+42.8833333	 1.1833333	Sentenac
+49.3166667	 6.0833333	Seremange
+45.3666667	 3.8833333	Sermoulis
+45.8833333	 5.8333333	Serrieres
+49.2666667	 2.85	Sery
+43.5	 1.05	Seysses
+48.4666667	 3.1833333	Sigy
+45.55	 2.5333333	Singles
+45.1166667	 4.6666667	Smauvert
+44.9666667	 4.6666667	Solignac
+46.2833333	 0.35	Sommieres
+49.95	 1.5833333	Soreng
+45.6833333	 4.7	Soucieu-en-Jarez
+47.5833333	 -0.55	Soulaire
+46.5	 2.4166667	Souperons
+48.5333333	 2.15	Souzy
+47.7430556	 -3.3130556	Sterbouest
+46.1666667	 4.9666667	Sulignat
+46.15	 3.05	Sussat
+49.2166667	 4.1	Taissy
+48.6	 6.9333333	Tanconville
+43.35	 -0.5333333	Tarsacq
+43.6	 6.0166667	Tavernes
+45.3166667	 5.9666667	Tencin
+45.3	 3.1833333	Terret
+48.9166667	 7.15	Thal-pres-Drulingen
+50.6333333	 2.25	Therouanne
+46.5166667	 3.5833333	Thiel-sur-Acolin
+50.4333333	 3.6333333	Thivencelle
+47.7833333	 0.9666667	Thore-la-Rochette
+42.6333333	 2.75	Thuir
+43.0833333	 0.3166667	Tilhouse
+41.65	 9.1	Tirolo
+48.1333333	 0.4166667	Torce-la-Vallee
+43.9	 7.1166667	Toudon
+48.4833333	 5.45	Tourailles-sous-Bois
+43.25	 0.4166667	Tournous
+48.35	 2.4666667	Tousson
+47.0	 3.2166667	Trangy
+48.4	 -3.8333333	Tredudon
+48.0833333	 2.65	Treilles
+44.7666667	 2.5	Tremouille
+48.2166667	 -2.8	Treve
+48.3333333	 -1.8833333	Trimer
+47.5166667	 4.0833333	Troncois
+43.6833333	 0.2833333	Tudelle
+47.65	 7.4333333	Uffheim
+42.6	 9.1666667	Urtaca
+48.2833333	 -2.85	Uzel
+46.8666667	 2.7333333	Vailly
+45.45	 6.9833333	Val-d’Isere
+48.6833333	 6.5	Valhey
+45.9	 2.0333333	Vallieres
+48.4166667	 2.7333333	Valvins
+41.6916667	 9.3875	Vardiola
+49.55	 3.0666667	Varesnes
+45.8333333	 2.5166667	Vatanges
+49.0	 2.4833333	Vaudherland
+44.7666667	 5.0333333	Vaunaveys
+49.0166667	 5.5333333	Vaux
+45.45	 3.0	Vauzelle
+45.4333333	 2.5166667	Veillac
+49.0666667	 2.5666667	Vemars
+43.4333333	 1.45	Venerque
+45.15	 4.1333333	Vercheres
+43.7333333	 4.2166667	Vergeze
+47.6	 -0.8333333	Vern
+48.9166667	 0.45	Verneusses
+50.5	 2.6333333	Verquin
+48.9333333	 1.7	Vert
+45.7666667	 6.25	Vesonne
+45.6833333	 5.2166667	Veyssilieu
+43.3833333	 0.05	Vic
+50.5833333	 2.7	Vieille-Chapelle
+46.2833333	 2.4333333	Viersat
+48.65	 -0.15	Vieux-Pont
+48.2666667	 5.3	Vignes
+49.6166667	 -1.6833333	Village de la Judee
+46.25	 3.0	Villard
+46.55	 1.55	Villarnoux
+48.85	 6.1166667	Ville
+46.0833333	 1.6	Villechenour
+43.4166667	 0.7166667	Villefranche
+46.95	 3.5	Ville-Langy
+46.0	 -0.2833333	Villemorin
+42.6333333	 2.9166667	Villeneuve
+42.9	 1.8166667	Villeneuve-d’Olmes
+48.2666667	 4.1	Villepart
+48.9333333	 -0.25	Villers
+49.1666667	 4.0166667	Villers-Allerand
+47.15	 5.4	Villers-Rotin
+49.4	 4.45	Ville-sur-Retourne
+48.6666667	 5.9833333	Villey-le-Sec
+47.5666667	 0.3166667	Villiers-au-Bouin
+48.25	 3.0	Villoiseau
+49.0166667	 3.9	Vinay
+46.45	 2.3833333	Viplaix
+47.5666667	 4.2833333	Viserny
+49.0166667	 6.4333333	Vittoncourt
+49.05	 4.8	Voilemont
+45.8166667	 5.7166667	Vongnes
+45.6666667	 0.4666667	Vouthon
+47.0666667	 6.2166667	Vuillafans
+49.5166667	 1.85	Wambez
+50.4166667	 2.2833333	Wavrans-sur-Ternoise
+50.35	 2.85	Willerval

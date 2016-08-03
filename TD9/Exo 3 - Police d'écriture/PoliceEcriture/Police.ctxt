@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=nom\ style
+comment0.target=Police(java.lang.String,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Police\n
+comment1.params=
+comment1.target=java.lang.String\ getNom()
+comment2.params=
+comment2.target=int\ getStyle()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getNom()
+comment0.text=\n\ Accesseurs\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=int\ getTaille()
+comment2.text=\n\ ----->\ M\u00E9thodes\ abstraites\ <------\n
+numComments=3

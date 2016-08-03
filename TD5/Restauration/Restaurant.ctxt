@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=nom\ nbPlaces\ prixMenuDeuxPlats
+comment0.target=Restaurant(java.lang.String,\ int,\ double)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Restaurant\n
+comment1.params=
+comment1.target=int\ nombrePlacesDisponibles()
+comment1.text=\n\ Methodes\ d'instances\n
+comment2.params=nombre\ quelMenu
+comment2.target=void\ vendreMenus(int,\ int)
+comment3.params=
+comment3.target=void\ remiseAZero()
+comment4.params=
+comment4.target=double\ chiffreAffaires()
+comment5.params=
+comment5.target=double\ tauxRemplissage()
+comment6.params=
+comment6.target=int\ getNombrePlaces()
+comment7.params=
+comment7.target=int\ getNombreClients()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=void\ affichage()
+numComments=10

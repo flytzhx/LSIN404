@@ -15,7 +15,7 @@ abstract class Person
     /**
      * Create a person with given name and age.
      */
-    Person(String name, int yearOfBirth)
+    protected Person(String name, int yearOfBirth)
     {
         this.name = name;
         this.yearOfBirth = yearOfBirth;

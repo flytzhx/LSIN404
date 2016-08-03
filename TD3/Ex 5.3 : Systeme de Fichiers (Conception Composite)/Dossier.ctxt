@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=nom
+comment0.target=Dossier(java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Dossier\n
+comment1.params=obj
+comment1.target=boolean\ ajoutObjet(Objet)
+comment2.params=dos1\ dos2
+comment2.target=boolean\ verifDescendance(Dossier,\ Dossier)
+comment3.params=
+comment3.target=int\ getTaille()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

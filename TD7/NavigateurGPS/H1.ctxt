@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=latitude\ longitude\ m
+comment0.target=int\ hashFunction(double,\ double,\ int)
+numComments=1

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ nombreVilles()
+comment0.text=\n\ Renvoie\ le\ nombre\ de\ villes\ de\ l'ensemble\n
+comment1.params=
+comment1.target=java.lang.String\ infos()
+comment1.text=\n\ Donne\ des\ infos\ sur\ l'ensemble\ (taille\ par\ exemple)\n
+numComments=2

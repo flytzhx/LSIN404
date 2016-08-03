@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=largeur\ hauteur
+comment0.target=Panneau(int,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Panneau\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=b
+comment2.target=void\ setLumiere(boolean)
+numComments=3

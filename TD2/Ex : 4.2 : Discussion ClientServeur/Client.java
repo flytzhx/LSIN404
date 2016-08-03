@@ -18,7 +18,7 @@ public class Client
    
     /*
      * Méthodes - Constructeurs
-     * Permet de créer un objet EncryptedString.
+     * Permet de créer un objet Client.
      */
      
     public Client(String nom)
@@ -72,8 +72,13 @@ public class Client
      {
          if(s != null)
          {
-             this.serveur = s;
-             return true;
+             
+             if(s.connecter(this))  // On connecte d'abord le serveur au client
+             {
+                 this.serveur = s;  // Si la connection a réussi, on connecte ensuite le client au serveur
+		 return true;
+             }
+             
          }
          return false;
      }

@@ -1,0 +1,50 @@
+47.8	 6.5333333	La Lanterne
+49.8666667	 4.05	Landouzy-la-Ville
+47.45	 6.6166667	La Pretiere
+45.1166667	 0.6666667	La Segumie
+44.3833333	 -0.1	Lavazan
+46.65	 -1.4166667	Le Bourg-sous-la-Roche-sur-Yon
+47.8	 3.3333333	Le Crot
+45.3166667	 2.05	Le Longy
+46.8	 5.9	Le Pasquier
+45.2666667	 4.15	Le Regard
+44.2666667	 4.1166667	Les Brousses
+48.25	 1.0333333	Les Foucaudieres
+46.0	 5.8166667	Les Metral
+44.9833333	 5.9666667	Les Sciauds
+48.0166667	 3.65	Le Vau-du-Puits
+43.9166667	 -1.25	Linxe
+49.0833333	 6.9166667	Loupershouse
+50.3666667	 1.8166667	Maintenay
+47.8833333	 2.05	Mardie
+45.8666667	 -0.3166667	Matha
+42.65	 1.8333333	Merens-les-Vals
+48.4	 7.4333333	Mittelbergheim
+43.5666667	 1.4833333	Montaudron
+49.8666667	 1.35	Mont Landrin
+49.3333333	 2.25	Mouchy-le-Chatel
+47.4166667	 0.95	Negron
+47.4	 5.0666667	Norges-la-Ville
+42.5666667	 2.25	Oreilla
+48.25	 5.95	Parey
+47.9833333	 -4.3166667	Petit Drevez
+49.15	 -0.8333333	Planquery
+49.3	 0.1833333	Pont-l’Eveque
+45.2	 6.2333333	Pre Plan
+48.4833333	 -3.25	Quilliac
+47.4833333	 0.8833333	Reugny
+48.85	 1.05	Roman
+48.7166667	 1.8	Rue Neuve
+47.7	 0.8666667	Saint-Arnoult
+44.9333333	 4.4666667	Saint-Cierge
+48.6666667	 -3.6166667	Saint-Efflam
+44.8333333	 4.6666667	Saint-Fortunat
+43.7333333	 -0.1	Saint-Griede
+43.3166667	 5.45	Saint-Julien
+48.2166667	 0.8833333	Saint-Lubin-des 5 Fonds
+46.2166667	 -0.15	Saint-Martin-les-Melle
+45.3166667	 1.0166667	Saint-Pantaly-d’Excideuil
+49.15	 3.1333333	Saint-Quentin
+48.8666667	 2.6833333	Saint-Thibault
+47.5666667	 4.1166667	Santigny
+46.1833333	 1.0	Sebioux

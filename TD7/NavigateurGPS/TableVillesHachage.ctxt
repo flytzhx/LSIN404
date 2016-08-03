@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=m\ hash
+comment0.target=TableVillesHachage(int,\ FonctionHachage)
+comment1.params=v
+comment1.target=void\ ajouterVille(Ville)
+comment2.params=latitude\ longitude
+comment2.target=Ville\ rechercherVille(double,\ double)
+comment3.params=
+comment3.target=int\ nombreVilles()
+comment4.params=
+comment4.target=int\ remplissage()
+comment5.params=
+comment5.target=TableVilles\ elementMaximal()
+comment6.params=
+comment6.target=java.lang.String\ infos()
+comment7.params=
+comment7.target=java.util.LinkedList\ traverser()
+numComments=8

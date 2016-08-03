@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Fichier()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Fichier\n
+comment1.params=nom\ taille
+comment1.target=Fichier(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getTaille()
+comment2.text=\n\ Accesseurs\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
